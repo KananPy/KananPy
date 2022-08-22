@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @KananPy
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning Python and Javascript.
+- 👋 Hi, I’m Kanan.
+- 👀 I’m a backend developer.
+- 🌱 Skils: Python / Django / Flask / RestApi / HTML / CSS / JS / MySQL / PostgreSQL / Redis / Docker
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: kenan.semenderli@gmail.com
 
 <!---
 KananPy/KananPy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
