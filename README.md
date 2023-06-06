@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kanan.
-- 👀 I’m a backend developer.
-- 🌱 Skils: Python / Django / Flask / RestApi / HTML / CSS / JS / MySQL / PostgreSQL / Redis / Docker
+- 👀 I’m a front-end developer.
+- 🌱 Skils: HTML / CSS / JS / MySQL / PostgreSQL / Redis / RestApi / React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: kenan.semenderli@gmail.com
 
